@@ -1,0 +1,6 @@
+int32 x
+int32 y
+---
+int32 result
+---
+float64 progress_bar
